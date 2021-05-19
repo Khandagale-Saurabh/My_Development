@@ -1,0 +1,150 @@
+:root{
+    --primary-font-color:rgba(10, 10, 2, 0.2);
+    --ff-primary:'Pattaya', sans-serif;
+    --ff-asccent:'Playfair Display',serif;
+}
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: var(--ff-primary);
+}
+
+
+h1{
+    color: var(--primary_font_color);
+}
+
+.head{
+    height: 10rem;
+    margin: 10px 10px 10px 10px ;
+}
+
+.shirt{
+    border: solid red;
+    display: flex;
+    position: relative;
+     flex-direction: row;
+     justify-content: center;
+
+    
+}
+
+.set_proper{
+    /* position: absolute;
+    height: 18rem;
+    margin: 2px;
+    object-fit: cover;
+    
+    
+    margin-left: 0%; */
+    position: absolute;
+    height: 28rem;
+    margin: -10px 70px -26px 161%;
+    object-fit: cover;
+}
+.container{
+    position: relative;
+    height: '200px';
+       
+    width:min(0%,70.5rem) 
+}
+.list_of_button{
+    margin-left: 50%;
+}
+
+.All_images{
+    background-color: brown;
+    height: 500px;
+    
+    display: block;
+}
+.hand{
+    border: solid gray;
+    background-color: blueviolet;
+    height: 6rem;
+   
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  
+}
+button>img{
+    height: 30px;
+    width: 30px;
+   display: block;
+   justify-content: center;
+   align-items: center;  
+}
+button>.set_hand_button_row
+{
+
+  background-color: blue;
+ scroll-behavior: smooth;
+ height: 25px;
+ width: 25px;
+}
+
+@media(max-width:40em ){
+    .shirt{
+        display: block;
+        flex-direction: column;
+        
+
+    }
+    .All_images{
+        background-color: black;
+       
+    }
+    .list_of_button{
+        margin: 0% 0% 0% 0%;
+       align-items: center;
+       display: flex;
+
+    }
+    .set_proper{
+        position: absolute;
+        height: 18rem;
+        margin: 2px;
+        object-fit: cover;
+        margin-left: 0%;
+        
+    }
+    .hand{
+        display: flex;
+        
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
