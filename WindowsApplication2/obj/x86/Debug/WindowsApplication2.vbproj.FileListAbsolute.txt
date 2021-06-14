@@ -1,0 +1,8 @@
+D:\Asp.net\fight\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Asp.net\fight\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Asp.net\fight\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Asp.net\fight\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+D:\Asp.net\fight\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Asp.net\fight\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\Asp.net\fight\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\Asp.net\fight\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
